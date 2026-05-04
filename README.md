@@ -35,23 +35,23 @@
 <td width="50%" valign="top">
 
 ### RU Русский
-Привет! Я Артем — backend-разработчик.
+Привет! Я Владимир — backend-разработчик.
 
-- Разрабатываю API и веб-приложения на Python/Django
-- Пишу Telegram-ботов
-- Работаю с PostgreSQL, Docker, Git
-- Изучаю архитектуру и оптимизацию backend
+- 🌐 Разрабатываю API и веб-приложения на Python/Django
+- 💻 Создаю Telegram-ботов
+- 🤖 Специализация: Python, Django, Django REST, HTML/CSS, JavaScrtipt, aiogram
+- ⚡ В свободное время изучаю новые технологии и интересуюсь геймингом
 
 </td>
 <td width="50%" valign="top">
 
 ### EN English
-Hi! I'm Artem — a backend developer.
+Hi! I'm Vladimir — a backend developer.
 
-- I build APIs and web apps with Python/Django
-- I create Telegram bots
-- I work with PostgreSQL, Docker, and Git
-- I study backend architecture and optimization
+- 🌐 I build APIs and web applications with Python/Django
+- 💻 I create Telegram bots
+- 🤖 Specialization: Python, Django, Django REST Framework, HTML/CSS, JavaScript, aiogram
+- ⚡ In my free time, I explore new technologies and enjoy gaming
 
 </td>
 </tr>
@@ -59,28 +59,30 @@ Hi! I'm Artem — a backend developer.
 
 ---
 
-## Tech Stack / Технологии
+## 🛠️ Tech Stack / Технологии
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=44B78B" />
   <img src="https://img.shields.io/badge/DRF-111827?style=for-the-badge&logo=django&logoColor=ff1709" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Aiogram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
+
 
 ---
 
 ## GitHub Stats / Статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SoulSkrill&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulSkrill&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoulSkrill&theme=tokyonight" />
+  <img height="190" src="https://streak-stats.demolab.com?user=SoulSkrill&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&currStreakNum=7c83ff&sideNums=7c83ff&sideLabels=a5f3fc&dates=93c5fd&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoulSkrill&theme=tokyonight&hide_border=true" />
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=SoulSkrill&bg_color=0d1117&color=7c83ff&line=7c83ff&point=ffffff&area=true&area_color=111827&hide_border=true" />
 </p>
