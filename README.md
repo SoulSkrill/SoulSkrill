@@ -1,70 +1,86 @@
-<h1 align="center">Hi 👋, I'm SoulSkrill</h1>
-<h3 align="center">Backend Engineer • Python • Django • REST API</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0f1c,40:111827,100:ef4444&text=SoulSkrill&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django&descAlignY=62" alt="header" />
+</p>
+
+<h1 align="center">Привет! Hello! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Clean+Code+%7C+Reliable+Backend+%7C+Real+Projects" alt="typing" />
+  <b>RU</b> Владимир | <b>EN</b> Vladimir
 </p>
 
 <p align="center">
-  <a href="https://github.com/SoulSkrill">
-    <img src="https://komarev.com/ghpvc/?username=SoulSkrill&label=Profile%20views&color=00e5ff&style=for-the-badge" alt="views" />
+  Backend Developer • Веб-разработчик <br/>
+  Python • Django • REST API • Telegram Bots
+</p>
+
+<p align="center">
+  <a href="https://t.me/SoulSkrill">
+    <img src="https://img.shields.io/badge/Telegram-@SoulSkrill-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
-  <a href="https://github.com/SoulSkrill?tab=followers">
-    <img src="https://img.shields.io/github/followers/SoulSkrill?logo=github&style=for-the-badge&color=00e5ff" alt="followers" />
+  <a href="mailto:soulskrill.11@mail.ru">
+    <img src="https://img.shields.io/badge/Email-soulskrill.11%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SoulSkrill&style=for-the-badge&color=3b82f6" alt="views"/>
 </p>
 
 ---
 
-### Connect with me
-<p align="left">
-  <a href="https://t.me/SoulSkrill" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="telegram" />
-  </a>
-  <a href="mailto:soulskrill.11@mail.ru" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="email" />
-  </a>
-  <a href="https://github.com/SoulSkrill" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" />
-  </a>
+## RU Обо мне / EN About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### RU Русский
+Привет! Я Артем — backend-разработчик.
+
+- Разрабатываю API и веб-приложения на Python/Django
+- Пишу Telegram-ботов
+- Работаю с PostgreSQL, Docker, Git
+- Изучаю архитектуру и оптимизацию backend
+
+</td>
+<td width="50%" valign="top">
+
+### EN English
+Hi! I'm Artem — a backend developer.
+
+- I build APIs and web apps with Python/Django
+- I create Telegram bots
+- I work with PostgreSQL, Docker, and Git
+- I study backend architecture and optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack / Технологии
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=44B78B" />
+  <img src="https://img.shields.io/badge/DRF-111827?style=for-the-badge&logo=django&logoColor=ff1709" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
 ---
 
-### Tech Stack
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
-  <a href="https://linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="js" /></a>
-</p>
+## GitHub Stats / Статистика
 
----
-
-### GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SoulSkrill&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulSkrill&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SoulSkrill&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulSkrill&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoulSkrill&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoulSkrill&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-### Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SoulSkrill/SoulSkrill/output/snake.svg" alt="snake" />
+  <img src="https://streak-stats.demolab.com?user=SoulSkrill&theme=tokyonight&hide_border=true" />
 </p>
