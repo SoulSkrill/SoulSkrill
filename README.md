@@ -14,12 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/SoulSkrill">
-    <img src="https://img.shields.io/badge/Telegram-@SoulSkrill-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-  </a>
-  <a href="mailto:soulskrill.11@mail.ru">
-    <img src="https://img.shields.io/badge/Email-soulskrill.11%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
+  <a href="https://t.me/SoulSkrill"><img src="https://img.shields.io/badge/Telegram-@SoulSkrill-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+  <a href="mailto:soulskrill.11@mail.ru"><img src="https://img.shields.io/badge/Email-soulskrill.11%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 <p align="center">
